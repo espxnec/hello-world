@@ -1,4 +1,4 @@
-# hello-world
+# hello-world commands for simpesit (updated)
 Just for fun, nothing special
 
 package net.apcat.simplesit.commands;
